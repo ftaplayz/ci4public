@@ -1,2 +1,1 @@
-# ci4public
-public version of my ci4 project
+This uses CI4, PHPMailer, and Mustache.
